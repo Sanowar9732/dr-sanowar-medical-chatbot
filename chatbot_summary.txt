@@ -1,0 +1,7 @@
+DR. SANOWAR MEDICAL CHATBOT
+============================
+
+Total medical topics: 20
+Includes: Dental pain, Cavities, Gum disease, Oral hygiene, etc.
+
+Usage: Load with pickle.load() in Python

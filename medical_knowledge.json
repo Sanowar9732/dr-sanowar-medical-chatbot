@@ -1,0 +1,344 @@
+{
+  "greetings": {
+    "patterns": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "how are you",
+      "what's up",
+      "greetings",
+      "hi there"
+    ],
+    "responses": [
+      "Hello! I'm Dr. Sanowar's medical and dental assistant. How can I help you today?",
+      "Hi there! I'm here to assist with your medical and dental questions.",
+      "Hello! I can help with medical and dental concerns. What would you like to know?"
+    ]
+  },
+  "dental_pain": {
+    "patterns": [
+      "toothache",
+      "tooth pain",
+      "dental pain",
+      "pain in tooth",
+      "teeth hurt",
+      "sensitive teeth",
+      "pain when chewing",
+      "gum pain",
+      "jaw pain",
+      "pain in molar",
+      "sharp pain tooth",
+      "throbbing tooth pain"
+    ],
+    "responses": [
+      "Tooth pain can indicate cavities, gum disease, abscess, or tooth sensitivity. Rinse with warm salt water and see a dentist soon.",
+      "Dental pain should be evaluated professionally. It could be due to decay, infection, or gum issues. Avoid very hot/cold foods.",
+      "Toothaches often need dental treatment. For temporary relief, you can take OTC pain relievers and use cold compresses."
+    ]
+  },
+  "cavities": {
+    "patterns": [
+      "cavity",
+      "cavities",
+      "tooth decay",
+      "dental caries",
+      "holes in teeth",
+      "black spots on teeth",
+      "brown spots teeth",
+      "decayed tooth"
+    ],
+    "responses": [
+      "Cavities are permanently damaged areas in teeth that develop into holes. They're caused by bacteria, frequent snacking, sugary drinks, and poor oral hygiene.",
+      "Prevent cavities by brushing twice daily with fluoride toothpaste, flossing regularly, reducing sugary foods, and getting dental sealants.",
+      "Cavity treatment includes fillings, crowns, or root canals. Early detection through regular dental visits prevents extensive damage."
+    ]
+  },
+  "gum_disease": {
+    "patterns": [
+      "bleeding gums",
+      "swollen gums",
+      "gum disease",
+      "gingivitis",
+      "periodontitis",
+      "receding gums",
+      "gums bleeding when brushing",
+      "puffy gums",
+      "red gums"
+    ],
+    "responses": [
+      "Bleeding gums often indicate gingivitis. Improve brushing technique, floss daily, and see a dentist for professional cleaning.",
+      "Gum disease progresses from gingivitis to periodontitis. Symptoms include bleeding, swelling, and bad breath. Professional treatment is essential.",
+      "For gum health: brush gently with soft bristles, floss properly, use antimicrobial mouthwash, and get regular dental cleanings."
+    ]
+  },
+  "oral_hygiene": {
+    "patterns": [
+      "how to brush teeth",
+      "proper brushing",
+      "flossing",
+      "oral hygiene",
+      "dental care",
+      "taking care of teeth",
+      "brushing technique",
+      "mouthwash",
+      "clean teeth",
+      "dental hygiene",
+      "oral care"
+    ],
+    "responses": [
+      "Brush teeth twice daily for two minutes using fluoride toothpaste. Use gentle circular motions and angle bristles toward gums.",
+      "Floss daily to remove plaque between teeth. Use proper technique: curve floss around each tooth and slide gently under gumline.",
+      "Complete oral care: brush 2x daily, floss once daily, use mouthwash, clean tongue, and visit dentist every 6 months."
+    ]
+  },
+  "bad_breath": {
+    "patterns": [
+      "bad breath",
+      "halitosis",
+      "mouth odor",
+      "breath smells",
+      "chronic bad breath"
+    ],
+    "responses": [
+      "Bad breath can be caused by food particles, gum disease, dry mouth, or medical conditions. Improve oral hygiene and stay hydrated.",
+      "For fresh breath: brush teeth and tongue, floss daily, use mouthwash, drink water, and avoid strong-smelling foods.",
+      "Persistent bad breath may indicate gum disease or other health issues. Consult a dentist for proper diagnosis."
+    ]
+  },
+  "teeth_whitening": {
+    "patterns": [
+      "teeth whitening",
+      "white teeth",
+      "stained teeth",
+      "yellow teeth",
+      "teeth discoloration",
+      "whitening treatments",
+      "brighten teeth"
+    ],
+    "responses": [
+      "Teeth whitening options include professional in-office treatments, take-home kits from dentists, and over-the-counter products.",
+      "For safe whitening, consult a dentist. Avoid excessive whitening as it can damage enamel and cause sensitivity.",
+      "Maintain white teeth by avoiding staining foods/drinks, practicing good oral hygiene, and getting professional cleanings."
+    ]
+  },
+  "orthodontics": {
+    "patterns": [
+      "braces",
+      "aligners",
+      "crooked teeth",
+      "orthodontic treatment",
+      "teeth alignment",
+      "invisalign",
+      "metal braces",
+      "straighten teeth"
+    ],
+    "responses": [
+      "Orthodontic treatments like braces or aligners correct teeth alignment and bite issues. Consultation with an orthodontist is recommended.",
+      "Treatment duration varies from 6 months to 3 years depending on complexity. Regular adjustments and good oral hygiene are crucial.",
+      "Modern options include clear aligners, ceramic braces, and lingual braces. Each has advantages depending on your needs."
+    ]
+  },
+  "dental_emergency": {
+    "patterns": [
+      "broken tooth",
+      "knocked out tooth",
+      "dental emergency",
+      "tooth trauma",
+      "lost filling",
+      "broken crown",
+      "dental injury",
+      "tooth accident"
+    ],
+    "responses": [
+      "EMERGENCY: For knocked-out permanent teeth, handle by crown, rinse gently, try to reinsert, or keep in milk. See dentist within 30 minutes.",
+      "URGENT: For broken teeth, save fragments, rinse mouth with warm water, use cold compress for swelling, see dentist immediately.",
+      "Dental emergencies need immediate care. Contact your dentist or visit emergency dental clinic. Save any broken pieces."
+    ]
+  },
+  "fever": {
+    "patterns": [
+      "fever",
+      "high temperature",
+      "body hot",
+      "feverish",
+      "temperature",
+      "high fever",
+      "fever symptoms"
+    ],
+    "responses": [
+      "Fever is body's response to infection. Rest, drink fluids, use cool compresses. Consult doctor if fever persists over 3 days or is very high.",
+      "For adults: fever over 103\u00b0F (39.4\u00b0C) needs medical attention. For children, consult pediatrician for specific guidelines.",
+      "Monitor fever regularly. Seek emergency care if accompanied by stiff neck, confusion, difficulty breathing, or severe headache."
+    ]
+  },
+  "headache": {
+    "patterns": [
+      "headache",
+      "head pain",
+      "migraine",
+      "tension headache",
+      "head hurting",
+      "pain in head",
+      "chronic headache"
+    ],
+    "responses": [
+      "Headaches can be tension-type, migraine, or cluster. Rest in dark room, stay hydrated, and consider OTC pain relievers.",
+      "For frequent headaches, track triggers like stress, certain foods, or sleep patterns. Consult doctor for persistent or severe headaches.",
+      "Seek emergency care for sudden severe headache, headache after injury, or headache with vision changes, confusion, or fever."
+    ]
+  },
+  "cough_cold": {
+    "patterns": [
+      "cough",
+      "cold",
+      "common cold",
+      "runny nose",
+      "sneezing",
+      "congestion",
+      "coughing",
+      "sore throat",
+      "nasal congestion"
+    ],
+    "responses": [
+      "For cold symptoms: rest, drink warm fluids, use humidifier, saline nasal spray, and OTC cold medications as needed.",
+      "Coughs can be productive (with mucus) or dry. Honey lemon tea, steam inhalation, and cough drops can provide relief.",
+      "Most colds resolve in 7-10 days. See doctor if symptoms worsen, persist beyond 2 weeks, or include high fever/difficulty breathing."
+    ]
+  },
+  "stomach_issues": {
+    "patterns": [
+      "stomach pain",
+      "abdominal pain",
+      "indigestion",
+      "upset stomach",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "responses": [
+      "For stomach issues: BRAT diet (bananas, rice, applesauce, toast), clear fluids, avoid dairy and fatty foods. Rest and stay hydrated.",
+      "Most stomach issues resolve in 1-2 days. Seek medical care for severe pain, persistent vomiting, blood in stool, or dehydration signs.",
+      "Prevent stomach problems by eating slowly, avoiding trigger foods, managing stress, and practicing good food hygiene."
+    ]
+  },
+  "skin_problems": {
+    "patterns": [
+      "rash",
+      "skin rash",
+      "allergy",
+      "hives",
+      "itching",
+      "skin irritation",
+      "red skin",
+      "skin bumps",
+      "dermatitis"
+    ],
+    "responses": [
+      "For mild rashes: cool compresses, oatmeal baths, hydrocortisone cream, and oral antihistamines for itching.",
+      "Identify and avoid triggers like certain foods, chemicals, or fabrics. Keep skin moisturized and avoid scratching.",
+      "See doctor for widespread rash, rash with fever, painful rash, or if rash doesn't improve with home care."
+    ]
+  },
+  "allergies": {
+    "patterns": [
+      "allergies",
+      "allergic reaction",
+      "seasonal allergies",
+      "hay fever",
+      "sneezing allergies",
+      "pollen allergy",
+      "food allergy"
+    ],
+    "responses": [
+      "For allergies: antihistamines, nasal sprays, eye drops, and avoiding known allergens. Keep windows closed during high pollen seasons.",
+      "Severe allergic reactions (anaphylaxis) need immediate emergency care - symptoms include difficulty breathing, swelling, dizziness.",
+      "Allergy testing can identify triggers. Immunotherapy (allergy shots) may provide long-term relief for some allergies."
+    ]
+  },
+  "general_health": {
+    "patterns": [
+      "healthy lifestyle",
+      "stay healthy",
+      "health tips",
+      "wellness",
+      "prevent illness",
+      "boost immunity",
+      "healthy habits"
+    ],
+    "responses": [
+      "Maintain health with: balanced diet, regular exercise, adequate sleep, stress management, no smoking, limited alcohol, and regular check-ups.",
+      "Preventive care includes vaccinations, cancer screenings, dental check-ups, eye exams, and monitoring blood pressure/cholesterol.",
+      "Good health habits: 7-9 hours sleep, 150min exercise weekly, 5+ fruit/vegetable servings daily, and staying hydrated."
+    ]
+  },
+  "covid_info": {
+    "patterns": [
+      "covid",
+      "coronavirus",
+      "covid symptoms",
+      "covid prevention",
+      "pandemic",
+      "covid test",
+      "covid vaccine"
+    ],
+    "responses": [
+      "COVID-19 symptoms: fever, cough, fatigue, loss of taste/smell, difficulty breathing. Isolate and test if symptoms appear.",
+      "Prevention: vaccination, masks in crowded areas, hand hygiene, ventilation. Follow current public health guidelines.",
+      "Most COVID cases are mild. Seek emergency care for severe symptoms like difficulty breathing, chest pain, or confusion."
+    ]
+  },
+  "medication_questions": {
+    "patterns": [
+      "pain medication",
+      "antibiotics",
+      "medication for pain",
+      "what medicine to take",
+      "pain relief",
+      "otc medication"
+    ],
+    "responses": [
+      "For pain: acetaminophen or ibuprofen as directed. Never exceed recommended dosage. Consult doctor for persistent pain.",
+      "Antibiotics require prescription and should be taken exactly as prescribed. Complete full course even if feeling better.",
+      "Always consult healthcare provider before taking new medications, especially with existing conditions or other medications."
+    ]
+  },
+  "when_to_see_doctor": {
+    "patterns": [
+      "when to see doctor",
+      "emergency symptoms",
+      "when to seek help",
+      "medical emergency",
+      "when to go hospital",
+      "urgent care"
+    ],
+    "responses": [
+      "Seek IMMEDIATE care for: chest pain, difficulty breathing, severe bleeding, sudden weakness, confusion, or severe pain.",
+      "See doctor within 24 hours for: high fever, persistent vomiting, severe diarrhea, worsening symptoms, or concerns about medication.",
+      "Schedule appointment for: routine check-ups, chronic conditions, minor illnesses lasting more than a week, or preventive care."
+    ]
+  },
+  "goodbye": {
+    "patterns": [
+      "bye",
+      "goodbye",
+      "see you",
+      "quit",
+      "exit",
+      "thank you",
+      "thanks",
+      "that's all",
+      "no more questions"
+    ],
+    "responses": [
+      "Take care of your health! Remember to maintain good oral hygiene and regular check-ups.",
+      "Goodbye! Stay healthy and don't hesitate to ask if you have more medical or dental questions.",
+      "Thank you for chatting! Remember that this is informational only - always consult healthcare professionals for medical advice."
+    ]
+  }
+}
